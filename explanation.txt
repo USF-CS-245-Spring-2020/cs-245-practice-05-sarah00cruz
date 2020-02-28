@@ -1,0 +1,2 @@
+I used count sort because the runtime is n times the size of the array. 
+The runtime would be O(n*k)(size is 1,000,000) and is faster than O(n*log(n)) as seen in other sorting algorithms like Merge Sort. 
